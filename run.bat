@@ -1,0 +1,1 @@
+terminal.exe /portable config.ini
